@@ -1,7 +1,3 @@
-## AI Assistant
-Here’s an example of a clear and professional `README.md` for your project description:
-
----
 
 # **ListView Annotations Project**
 
